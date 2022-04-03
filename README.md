@@ -36,7 +36,6 @@ node server
 
     HTML5
     CSS
-    jQuery
     Express
     MongoDB
     Mongoose
